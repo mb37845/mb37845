@@ -70,8 +70,8 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| [**FlowCare.API**](https://github.com/mb37845/FlowCare.API) | `.NET 10` `ASP.NET Core` `PostgreSQL` | Production-ready queue & appointment backend — 40+ endpoints, 5 user roles, Clean Architecture |
-| [**SmishGuard**](https://github.com/mb37845) | `Python` `ML` `Deep Learning` `Transformers` | AI-powered phishing SMS detection — ~99% accuracy & recall |
+| [**FlowCare-Backend**](https://github.com/mb37845/FlowCare-Backend) | `.NET 10` `ASP.NET Core` `PostgreSQL` | Production-ready queue & appointment backend — 40+ endpoints, 5 user roles, Clean Architecture |
+| [**SmishGuard**](https://github.com/mb37845/SmishGuard) | `Python` `ML` `Deep Learning` `Transformers` | AI-powered phishing SMS detection — ~99% accuracy & recall |
 | [**user-finance-API**](https://github.com/mb37845/user-finance-API) | `Full Stack` `REST API` | Finance management system with secure authentication |
 
 ---
