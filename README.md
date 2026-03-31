@@ -72,20 +72,7 @@
 |---|---|---|
 | [**FlowCare.API**](https://github.com/mb37845/FlowCare.API) | `.NET 10` `ASP.NET Core` `PostgreSQL` | Production-ready queue & appointment backend — 40+ endpoints, 5 user roles, Clean Architecture |
 | [**SmishGuard**](https://github.com/mb37845) | `Python` `ML` `Deep Learning` `Transformers` | AI-powered phishing SMS detection — ~99% accuracy & recall |
-| [**user-finance**](https://github.com/mb37845/user-finance) | `Full Stack` `REST API` | Finance management system with secure authentication |
-| [**Single-Responsibility-Principle**](https://github.com/mb37845/Single-Responsibility-Principle) | `C#` | SOLID design pattern demonstration |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Maab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mb37845&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mb37845&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| [**user-finance-API**](https://github.com/mb37845/user-finance-API) | `Full Stack` `REST API` | Finance management system with secure authentication |
 
 ---
 
